@@ -6,7 +6,7 @@ Tersedia dalam 2 bahasa, Inggris (en) dan Indonesia (id)
 
 ---------------------------------------------------------
 
-Before installing, you must have a short.io account and a domain that has been connected to short.io. Before installing, you must have a short.io account and a domain that has been connected to short.io. 
+Before installing, you must have a short.io account and a domain that has been connected to short.io.
 
 How to Install :
 
