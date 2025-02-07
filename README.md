@@ -6,6 +6,12 @@ Tersedia dalam 2 bahasa, Inggris (en) dan Indonesia (id)
 
 ---------------------------------------------------------
 
+Demo : https://aldy57.github.io/simple-public-shortlink-website/en/index.html
+
+Note : shortlink don't work in demo version because no api key and only shows what this website looks like.
+
+---------------------------------------------------------
+
 Before installing, you must have a short.io account and a domain that has been connected to short.io.
 
 How to Install :
