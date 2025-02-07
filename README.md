@@ -1,4 +1,4 @@
-# simple-public-shortlink-website
+# Simple Shortlink Website using short.io
 
 Available in 2 languages, English (en) and Indonesian (id)
 Tersedia dalam 2 bahasa, Inggris (en) dan Indonesia (id)
